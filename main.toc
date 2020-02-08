@@ -1,0 +1,21 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {chapter}{ACKNOWLEDGMENT}{iii}{chapter*.1}% 
+\contentsline {chapter}{ABSTRACT}{iv}{chapter*.2}% 
+\contentsline {chapter}{DECLARATION}{v}{chapter*.3}% 
+\contentsline {chapter}{TABLE OF CONTENTS}{vi}{etoc@tocid.1}% 
+\contentsline {chapter}{LIST OF TABLES}{vii}{etoc@tocid.1}% 
+\contentsline {chapter}{LIST OF FIGURES}{viii}{etoc@tocid.1}% 
+\contentsline {chapter}{INTRODUCTION}{1}{chapter*.4}% 
+\vskip 4pt
+\contentsline {section}{\small BACKGROUND OF THE PROBLEM}{1}{section*.5}% 
+\vskip 4pt
+\contentsline {section}{\small STATEMENT OF THE PROBLEM}{1}{section*.5}% 
+\vskip 4pt
+\contentsline {section}{\small OBJECTIVES OF THE PROJECT}{1}{section*.5}% 
+\contentsline {chapter}{LITERATURE REVIEW}{2}{chapter*.6}% 
+\contentsline {chapter}{SYSTEM DESIGN (RESEARCH METHODOLOGY)}{3}{chapter*.7}% 
+\contentsline {chapter}{CASE STUDY (RESULTS AND DISCUSSION)}{4}{chapter*.10}% 
+\contentsline {chapter}{CONCLUSIONS}{5}{chapter*.11}% 
+\contentsline {chapter}{REFERENCES}{6}{chapter*.11}% 
+\contentsline {chapter}{APPENDIX A: USERS’ MANUAL}{7}{chapter*.13}% 
+\contentsline {chapter}{APPENDIX B: SYSTEM TECHNICAL DOCUMENTATION}{8}{chapter*.14}% 
