@@ -1,0 +1,18 @@
+\begin{thebibliography}{}
+
+\bibitem[Einstein, 1905]{einstein}
+Einstein, A. (1905).
+\newblock {Zur Elektrodynamik bewegter K{\"o}rper}. ({German}) [{On} the
+  electrodynamics of moving bodies].
+\newblock {\em Annalen der Physik}, 322(10):891--921.
+
+\bibitem[Goossens et~al., 1993]{latexcompanion}
+Goossens, M., Mittelbach, F., and Samarin, A. (1993).
+\newblock {\em The \LaTeX\ Companion}.
+\newblock Addison-Wesley, Reading, Massachusetts.
+
+\bibitem[Knuth, ]{knuthwebsite}
+Knuth, D.
+\newblock Knuth: Computers and typesetting.
+
+\end{thebibliography}
